@@ -5,7 +5,7 @@ import Dashboard from './components/Dashboard/Dashboard';
 import Login from './pages/admin/Login';
 import StudentList from './pages/student/StudentList';
 import TeacherList from './pages/Teacher/TeacherList';
-import SubadminList from './pages/subadmin/SubadminList';
+import SubadminList from './pages/Subadmin/SubadminList';
 import AdminSettingPage from './pages/admin/AdminSettingPage';
 import AttendanceList from './pages/admin/AttendanceList';
 import FeesList from './pages/admin/FeesList';
