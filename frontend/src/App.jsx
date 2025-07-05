@@ -4,7 +4,7 @@ import Sidebar from './components/Dashboard/Sidebar';
 import Dashboard from './components/Dashboard/Dashboard';
 import Login from './pages/admin/Login';
 import StudentList from './pages/student/StudentList';
-import TeacherList from './pages/teacher/TeacherList';
+import TeacherList from './pages/Teacher/TeacherList';
 import SubadminList from './pages/subadmin/SubadminList';
 import AdminSettingPage from './pages/admin/AdminSettingPage';
 import AttendanceList from './pages/admin/AttendanceList';
