@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import TeacherFilter from '../../components/teacher/TeacherFilter';
-import TeacherListData from '../../components/teacher/TeacherListData';
-import AddNewTeacher from '../../components/teacher/AddNewTeacher';
+import TeacherFilter from '../../components/Teacher/TeacherFilter';
+import TeacherListData from '../../components/Teacher/TeacherListData';
+import AddNewTeacher from '../../components/Teacher/AddNewTeacher';
 
 const TeacherList = () => {
   const [searchTerm, setSearchTerm] = useState('');
